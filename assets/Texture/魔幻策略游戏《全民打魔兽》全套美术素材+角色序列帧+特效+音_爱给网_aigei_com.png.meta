@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "c5dcff98-490e-4ddc-821c-5cb74ce36bf8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "魔幻策略游戏《全民打魔兽》全套美术素材+角色序列帧+特效+音_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "1a9cdcde-a362-412d-a438-846e7a68f4f6",
+      "rawTextureUuid": "c5dcff98-490e-4ddc-821c-5cb74ce36bf8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 486,
+      "height": 378,
+      "rawWidth": 486,
+      "rawHeight": 378,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

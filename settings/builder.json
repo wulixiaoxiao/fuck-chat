@@ -1,0 +1,49 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": false,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.MatchvsExamples",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "3024b3e7-4320-4180-a030-ebd97d34addd",
+  "title": "night_chat",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx0054f551abb6241c",
+    "isSubdomain": false,
+    "orientation": "landscape",
+    "subContext": ""
+  },
+  "xxteaKey": "7664dd9e-e345-4f",
+  "zipCompressJs": true
+}
